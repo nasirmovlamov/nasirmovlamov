@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <img  src="https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&locale=en&theme=onedark" alt="nasirmovlamov" />
- <img width="250px"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" />
+ <img width="300px"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" />
 </div>
 
 <br/>
