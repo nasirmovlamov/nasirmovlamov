@@ -9,7 +9,6 @@
   <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ"><img src="https://img.shields.io/badge/youtube-9116EF.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
  <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ"><img src="https://img.shields.io/badge/telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
-
 <div align="center">
  <img  src="https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&locale=en&theme=onedark" alt="nasirmovlamov" />
  <img  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" />
