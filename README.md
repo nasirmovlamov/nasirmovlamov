@@ -25,7 +25,7 @@
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/-Next-black?style=for-the-badge&amp;labelColor=black&amp;logo=next.js&amp;logoColor=black"  alt="Next" style="max-width:100%;">
+<img src="https://img.shields.io/badge/-Next-white?style=for-the-badge&amp;labelColor=black&amp;logo=next.js&amp;logoColor=white"  alt="Next" style="max-width:100%;">
 </a>
 [![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 
