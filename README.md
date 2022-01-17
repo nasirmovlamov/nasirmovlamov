@@ -11,7 +11,7 @@
 
 ### Languages/Frameworks/Tools
 <a href="#">
-<img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=Typescript&amp;logoColor=F0DB4F"  alt="Javascript" style="max-width:100%;">
+<img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=Typescript&amp;logoColor=blue"  alt="Javascript" style="max-width:100%;">
 </a>
 
 [![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
