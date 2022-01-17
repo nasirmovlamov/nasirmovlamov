@@ -30,7 +30,7 @@
 
 
 <a href="#">
-<img src="https://img.shields.io/badge/-PostgreSql-darkblue?style=for-the-badge&amp;labelColor=black&amp;logo=postgresql&amp;logoColor=white"  alt="Express" style="color:black;max-width:100%;">
+<img src="https://img.shields.io/badge/-PostgreSql-#203471?style=for-the-badge&amp;labelColor=black&amp;logo=postgresql&amp;logoColor=white"  alt="PostgreSQL" style="color:black;max-width:100%;">
 </a>
 
 
