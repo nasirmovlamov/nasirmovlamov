@@ -58,8 +58,6 @@
 [![Try Hack Me](https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=tryhackme&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 
 <ul>
-  <li listStyle='none'> :mortar_board: Azerbaijan State Oil and Industry University </li>
-  <li> :pushpin: Computer Engineering </li>
   <li> :earth_americas: Open Source Mind </li>
 </ul>
 
