@@ -34,8 +34,11 @@
 </a>
 
 
-[![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=for-the-badge&logo=postgresql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+<a href="#">
+<img src="https://img.shields.io/badge/-MySql-2a4c65?style=for-the-badge&amp;labelColor=black&amp;logo=mysql&amp;logoColor=#2a4c65"  alt="MySQL" style="color:white;max-width:100%;">
+</a>
+
+
 <br/>
 
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
