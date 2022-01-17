@@ -33,8 +33,6 @@
 </a>
 
 
-[![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-
 [![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
