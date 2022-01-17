@@ -29,7 +29,11 @@
 </a>
 
 
-[![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+<a href="#">
+<img src="https://img.shields.io/badge/-PostgreSql-darkblue?style=for-the-badge&amp;labelColor=black&amp;logo=postgresql&amp;logoColor=white"  alt="Express" style="color:black;max-width:100%;">
+</a>
+
+
 [![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=for-the-badge&logo=postgresql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 <br/>
