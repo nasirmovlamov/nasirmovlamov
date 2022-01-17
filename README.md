@@ -2,7 +2,7 @@
 <h2  >Software Engineer | React.js and Typescript Enthusiast </h2>
 
 
-<div align="center">
+<div>
  <img  src="https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&locale=en&theme=onedark" alt="nasirmovlamov" />
  <img width="300px"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" />
 </div>
@@ -69,8 +69,8 @@
  <h4> Drawing Portraits </h4>
 </div>
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
+<h2>Connect with me:</h2>
+<p >
   <a href="mailto:movlamovnasir@protonmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://az.linkedin.com/in/nasir-movlamov-322ab21b4"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/nasirmovlamov"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
