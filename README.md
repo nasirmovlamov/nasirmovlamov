@@ -21,6 +21,24 @@
 <br>
 
 <a href="#">
+<img src="https://img.shields.io/badge/-React-306d7e?style=for-the-badge&amp;labelColor=black&amp;logo=react&amp;logoColor=306d7e"  alt="React" style="max-width:100%;">
+</a>
+
+
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![JsonWebToken](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=json-web-tokens&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+
+
+
+<br>
+
+<a href="#">
 <img src="https://img.shields.io/badge/-NodeJS-darkgreen?style=for-the-badge&amp;labelColor=black&amp;logo=node.js&amp;logoColor=darkgreen"  alt="NodeJS" style="max-width:100%;">
 </a>
 
@@ -41,15 +59,7 @@
 
 <br/>
 
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![JsonWebToken](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=json-web-tokens&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-<br/>
+
 
 [![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=for-the-badge&logo=insomnia&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
