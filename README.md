@@ -21,7 +21,7 @@
 <br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/-React-306d7e?style=for-the-badge&amp;labelColor=black&amp;logo=react&amp;logoColor=306d7e"  alt="React" style="max-width:100%;">
+<img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&amp;labelColor=black&amp;logo=react&amp;logoColor=61dafb"  alt="React" style="max-width:100%;">
 </a>
 
 
