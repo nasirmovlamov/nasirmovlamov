@@ -10,7 +10,12 @@
 <br/>
 
 ### Languages/Frameworks/Tools
-
+<a href="#">
+        <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=JavaScript&amp;logoColor=F0DB4F" alt="Javascript" style="max-width:100%;">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-Python-f5f5f5?style=for-the-badge&amp;labelColor=black&amp;logo=Python&amp;logoColor=f5f5f5" alt="Python" style="max-width:100%;">
+    </a>
 [![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Typescript](https://img.shields.io/badge/-typescript-black?style=for-the-badge&logo=typescript&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
