@@ -27,7 +27,10 @@
 <a href="#">
 <img src="https://img.shields.io/badge/-Next-white?style=for-the-badge&amp;labelColor=black&amp;logo=next.js&amp;logoColor=white"  alt="Next" style="max-width:100%;">
 </a>
-[![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+
+<a href="#">
+<img src="https://img.shields.io/badge/-Redux-white?style=for-the-badge&amp;labelColor=black&amp;logo=redux&amp;logoColor=white"  alt="Redux" style="max-width:100%;">
+</a>
 
 
 [![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
