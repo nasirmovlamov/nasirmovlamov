@@ -15,7 +15,7 @@
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&amp;labelColor=black&amp;logo=Javascript&amp;logoColor=yellow"  alt="Javascript" style="max-width:100%;">
+<img src="https://img.shields.io/badge/-NodeJS-yellow?style=for-the-badge&amp;labelColor=black&amp;logo=node.js&amp;logoColor=yellow"  alt="NodeJS" style="max-width:100%;">
 </a>
 
 <br>
