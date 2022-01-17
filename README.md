@@ -24,8 +24,11 @@
 <img src="https://img.shields.io/badge/-NodeJS-darkgreen?style=for-the-badge&amp;labelColor=black&amp;logo=node.js&amp;logoColor=darkgreen"  alt="NodeJS" style="max-width:100%;">
 </a>
 
+<a href="#">
+<img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&amp;labelColor=black&amp;logo=express&amp;logoColor=white"  alt="NodeJS" style="max-width:100%;">
+</a>
 
-[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+
 [![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=for-the-badge&logo=postgresql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
