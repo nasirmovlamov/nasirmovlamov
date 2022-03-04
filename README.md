@@ -1,4 +1,4 @@
- <h1 >Hi 👋, I'm Nasir Movlamov</h1>
+ <h1 >Nasir Movlamov</h1>
 <h2  >Software Engineer | React.js and C++</h2>
 
 <ul>
