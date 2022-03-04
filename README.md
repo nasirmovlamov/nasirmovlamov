@@ -6,8 +6,7 @@
 </ul>
 
 <div>
- <h2> Hobbies</h3>
- <h4> Physics / Math / Martial arts </h4> 
+ <h4> Physics / Linux / Martial arts </h4> 
  <h4> Drawing Portraits </h4>
 </div>
 
