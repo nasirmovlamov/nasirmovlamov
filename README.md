@@ -1,106 +1,13 @@
  <h1 >Hi 👋, I'm Nasir Movlamov</h1>
-<h2  >Software Engineer | React.js and Typescript Enthusiast </h2>
-
-
-<div>
- <img  src="https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&locale=en&theme=onedark" alt="nasirmovlamov" />
- <img width="300px"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" />
-</div>
-
-<br/>
-
-### Languages/Frameworks/Tools
-<a href="#">
-<img src="https://img.shields.io/badge/-Typesciprt-blue?style=for-the-badge&amp;labelColor=black&amp;logo=Typescript&amp;logoColor=blue"  alt="Typescript" style="max-width:100%;">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&amp;labelColor=black&amp;logo=Javascript&amp;logoColor=yellow"  alt="Javascript" style="max-width:100%;">
-</a>
-
-<br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&amp;labelColor=black&amp;logo=react&amp;logoColor=61dafb"  alt="React" style="max-width:100%;">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/-Next-white?style=for-the-badge&amp;labelColor=black&amp;logo=next.js&amp;logoColor=white"  alt="Next" style="max-width:100%;">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/-Redux-white?style=for-the-badge&amp;labelColor=black&amp;logo=redux&amp;logoColor=white"  alt="Redux" style="max-width:100%;">
-</a>
-
-
-[![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![JsonWebToken](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=json-web-tokens&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-
-
-
-<br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/-NodeJS-darkgreen?style=for-the-badge&amp;labelColor=black&amp;logo=node.js&amp;logoColor=darkgreen"  alt="NodeJS" style="max-width:100%;">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/-Express-white?style=for-the-badge&amp;labelColor=black&amp;logo=express&amp;logoColor=white"  alt="Express" style="color:black;max-width:100%;">
-</a>
-
-
-<a href="#">
-<img src="https://img.shields.io/badge/-PostgreSql-142147?style=for-the-badge&amp;labelColor=black&amp;logo=postgresql&amp;logoColor=#142147"  alt="PostgreSQL" style="color:white;max-width:100%;">
-</a>
-
-
-<a href="#">
-<img src="https://img.shields.io/badge/-MySql-2a4c65?style=for-the-badge&amp;labelColor=black&amp;logo=mysql&amp;logoColor=#2a4c65"  alt="MySQL" style="color:white;max-width:100%;">
-</a>
-
-
-<br/>
-
-
-
-[![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=for-the-badge&logo=insomnia&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=for-the-badge&logo=gitlab&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-<br/>
-
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![SASS](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![Greensock](https://img.shields.io/badge/-Greensock-black?style=for-the-badge&logo=greensock&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![Framer](https://img.shields.io/badge/-Framer-black?style=for-the-badge&logo=framer&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![ChakraUI](https://img.shields.io/badge/-ChakraUI-black?style=for-the-badge&logo=chakra-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-<br/>
-
-
-[![AmazonAws](https://img.shields.io/badge/-AmazonAws-black?style=for-the-badge&logo=amazon-aws&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=heroku&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-black?style=for-the-badge&logo=raspberry-pi&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-
-[![KALI](https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kali-linux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![Hack The Box](https://img.shields.io/badge/-HackTheBox-black?style=for-the-badge&logo=hack-the-box&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![Try Hack Me](https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=tryhackme&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+<h2  >Software Engineer | React.js and C++</h2>
 
 <ul>
   <li> :earth_americas: Open Source Mind </li>
 </ul>
 
 <div>
- <h2> Enjoys</h3>
- <h4> Physics / Astronomy / Relativity </h4> 
+ <h2> Hobbies</h3>
+ <h4> Physics / Math / Martial arts </h4> 
  <h4> Drawing Portraits </h4>
 </div>
 
