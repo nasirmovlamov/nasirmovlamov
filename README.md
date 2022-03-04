@@ -7,7 +7,6 @@
 
 <div>
  <h4> Physics / Linux / Martial arts </h4> 
- <h4> Drawing Portraits </h4>
 </div>
 
 <h2>Connect with me:</h2>
