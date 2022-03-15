@@ -1,5 +1,5 @@
  <h1 >Nasir Movlamov</h1>
-<h2  >Software Engineer | React.js and C++</h2>
+<h2  >Software Engineer | Software Instructor | React.js and C++</h2>
 
 <ul>
   <li> :earth_americas: Open Source Mind </li>
