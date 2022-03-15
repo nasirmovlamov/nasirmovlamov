@@ -2,7 +2,7 @@
 <h2  >Software Engineer | Software Instructor | React.js and C++</h2>
 
 <ul>
-  <li> :earth_americas: Open Source Mind </li>
+  <li>Open source mind </li>
 </ul>
 
 <div>
