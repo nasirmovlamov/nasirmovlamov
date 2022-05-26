@@ -6,7 +6,7 @@
 </ul>
 
 <div>
- <h4> Physics / Linux </h4> 
+ <h4> Physics /  Math / Linux </h4> 
 </div>
 
 <h2>Connect with me:</h2>
