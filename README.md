@@ -5,11 +5,8 @@
 <h3>Javascript | Typescript | React </h3>
 <ul>
   <li>Open source mind </li>
+  <li>Physics / Linux </li>
 </ul>
-
-<div>
- <h4> Physics / Linux </h4> 
-</div>
 
 <h2>Connect with me:</h2>
 <p >
