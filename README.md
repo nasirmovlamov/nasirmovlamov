@@ -1,7 +1,5 @@
- <h1 >Nasir Movlamov</h1>
+ <h1> Software Engineer </h1>
  <a href="https://www.nasirmovlamov.me">www.nasirmovlamov.me </a>
- 
-<h2>Software Engineer </h2>
 <h3>Javascript | Typescript | React </h3>
 <ul>
   <li>Open source mind </li>
