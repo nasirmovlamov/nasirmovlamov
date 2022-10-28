@@ -1,5 +1,5 @@
  <h1> Software Engineer </h1>
- <a href="https://www.nasirmovlamov.me">www.nasirmovlamov.me </a>
+
 <p>learning / talking about javascript, typescript, linux, react, physics</p>
 <ul>
   <li>Open source mind </li>
@@ -14,4 +14,7 @@
   <a href="https://twitter.com/nasirmovlamov">twitter</a>
   <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ">youtube</a>
  
+</p>
+<p> 
+ <a href="https://www.nasirmovlamov.me">www.nasirmovlamov.me </a>
 </p>
