@@ -1,6 +1,6 @@
  <h1> Software Engineer </h1>
  <a href="https://www.nasirmovlamov.me">www.nasirmovlamov.me </a>
-<h3>Javascript | Typescript | React </h3>
+<p>learning / talking about javascript, typescript, linux, react, physics</p>
 <ul>
   <li>Open source mind </li>
   <li>Physics / Linux </li>
