@@ -1,9 +1,9 @@
  <h1> Software Engineer </h1>
 
-<p>learning / talking about javascript, typescript, linux, react, physics</p>
+<p>learning / talking about javascript, typescript, linux, react</p>
 <ul>
   <li>Open source mind </li>
-  <li>Physics / Linux </li>
+  <li>Physics / Open Source / Martial arts</li>
 </ul>
 
 <h3>Connect with me:</h2>
