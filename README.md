@@ -2,7 +2,6 @@
 
 <p>learning / talking about javascript, typescript, linux, react</p>
 <ul>
-  <li>Open source mind </li>
   <li>Physics / Open Source / Martial arts</li>
 </ul>
 
