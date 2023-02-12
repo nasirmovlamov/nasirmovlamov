@@ -1,6 +1,6 @@
  <h1> Software Engineer </h1>
 
-<p>learning / talking about javascript, typescript, linux, react</p>
+<p>javascript, typescript, linux, react</p>
 <ul>
   <li>Physics / Open Source / Martial arts</li>
 </ul>
