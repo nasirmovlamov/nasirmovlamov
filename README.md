@@ -2,7 +2,7 @@
 
 <p>javascript, typescript, linux, react</p>
 <ul>
-  <li>Physics / Open Source / Martial arts</li>
+  <li>physics, open source, martial arts</li>
 </ul>
 
 <h3>Connect with me:</h2>
