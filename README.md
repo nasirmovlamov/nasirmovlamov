@@ -1,9 +1,7 @@
  <h1> Software Engineer </h1>
 
 <p>javascript, typescript, linux, react</p>
-<ul>
-  <li>physics, open source, martial arts</li>
-</ul>
+<p>physics, open source, martial arts </p>
 
 <h3>Connect with me:</h2>
 <p >
