@@ -1,6 +1,6 @@
  <h1> Software Engineer at  <a href="https://abb-bank.az">ABB</a>  </h1>
-<p> BSc in Computer Engineering </p>
-<p> MSc in Artificial Intelligence </p>
+<p> BSc in Computer Engineering (ASOIU)</p>
+<p> MSc in Artificial Intelligence (ASOIU)</p>
 <p>javascript, typescript, linux, react</p>
 <p>physics, open source, martial arts </p>
 
