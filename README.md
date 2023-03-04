@@ -1,5 +1,5 @@
  <h1> Software Engineer at  <a href="https://abb-bank.az">ABB</a>  </h1>
- <p> studying MSc in Artificial Intelligence (ASOIU)</p>
+ <p> 2022 ~ 2024 MSc in Artificial Intelligence (ASOIU)</p>
  <p> 2018 ~ 2022 BSc in Computer Engineering (ASOIU)</p>
 
 <p>javascript, typescript, linux, react</p>
