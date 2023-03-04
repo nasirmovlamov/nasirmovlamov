@@ -1,5 +1,6 @@
- <h1> Software Engineer </h1>
-
+ <h1> Software Engineer @ ABB </h1>
+<p> BSc in Computer Engineering </p>
+<p> MSc in Artificial Intelligence </p>
 <p>javascript, typescript, linux, react</p>
 <p>physics, open source, martial arts </p>
 
