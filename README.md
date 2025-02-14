@@ -1,4 +1,5 @@
- <h1> Software Engineer at  <a href="https://abb-bank.az">ABB</a>  </h1>
+ Software Engineer at  <a href="https://abb-bank.az">ABB</a>
+ <br/>
 MSc in Artificial Intelligence
 <br/>
 BSc in Computer Engineering
