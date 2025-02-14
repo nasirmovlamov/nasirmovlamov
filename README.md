@@ -2,7 +2,7 @@
  <p> 2022 ~ 2024 MSc in Artificial Intelligence (ASOIU)</p>
  <p> 2018 ~ 2022 BSc in Computer Engineering (ASOIU)</p>
 
-<p>javascript, typescript, linux, react</p>
+<p>linux, react, machine learning</p>
 <p>physics, open source, martial arts </p>
 
 <h3>Connect with me:</h2>
