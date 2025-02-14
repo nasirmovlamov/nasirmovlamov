@@ -5,7 +5,6 @@ BSc in Computer Engineering
 
 <p>math, open source, linux, react, machine learning</p>
 
-<h3>Connect with me:</h2>
 <p>
   <a href="mailto:movlamovnasir@gmail.com">mail me</a> <br>
   <a href="https://az.linkedin.com/in/nasir-movlamov-322ab21b4">linkedin</a><br>
