@@ -3,9 +3,7 @@
 MSc in Artificial Intelligence
 <br/>
 BSc in Computer Engineering
-
 <p>math, open source, linux, react, machine learning</p>
-
 <p>
   <a href="https://az.linkedin.com/in/nasir-movlamov-322ab21b4">linkedin</a><br>
   <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ">youtube</a>
