@@ -4,8 +4,6 @@ MSc in Artificial Intelligence
 <br/>
 BSc in Computer Engineering
 <br/>
-currently serving in army
-<br/>
 math, open source, linux, react, machine learning
 <br/>
   <a href="https://az.linkedin.com/in/nasir-movlamov-322ab21b4">linkedin</a><br>
