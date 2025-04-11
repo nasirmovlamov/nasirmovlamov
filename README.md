@@ -9,4 +9,4 @@ math, open source, linux, react, machine learning
   <a href="https://az.linkedin.com/in/nasir-movlamov-322ab21b4">linkedin</a><br>
   <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ">youtube</a>
 <br/>
- <a href="https://www.nasirmovlamov.me">www.nasirmovlamov.com </a>
+ <a href="https://www.nasirmovlamov.com">www.nasirmovlamov.com </a>
